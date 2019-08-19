@@ -1,0 +1,21 @@
+{
+    "name": "restfull_api",
+    "description": "RestFull JavaScript Project",
+    "version": "1.0.0",
+    "scripts": {
+        "install": "npm install pg express body-parser morgan cors uuid cron bcrypt helmet node-cron swagger-ui-express"
+    },
+    "dependencies": {
+        "bcrypt": "^3.0.6",
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "cron": "^1.7.1",
+        "express": "^4.17.1",
+        "helmet": "^3.20.0",
+        "morgan": "^1.9.1",
+        "node-cron": "^2.0.3",
+        "pg": "^7.12.1",
+        "swagger-ui-express": "^4.0.7",
+        "uuid": "^3.3.2"
+    }
+}
