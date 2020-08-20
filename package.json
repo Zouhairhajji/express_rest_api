@@ -6,7 +6,7 @@
         "install": "npm install pg express body-parser morgan cors uuid cron bcrypt helmet node-cron swagger-ui-express"
     },
     "dependencies": {
-        "bcrypt": "^3.0.6",
+        "bcrypt": "^5.0.0",
         "body-parser": "^1.19.0",
         "cors": "^2.8.5",
         "cron": "^1.7.1",
